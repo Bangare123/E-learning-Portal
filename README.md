@@ -1,1 +1,2 @@
 # E-Learning-Portal (MERN stack)
+  The E-Learning Portal project, built using the MERN stack (MongoDB, Express, React, Node.js), offers platform for students and teachers to share and access educational content. It provides features like course creation, video lectures with real-time updates and secure data via MongoDB. The portal includes user authentication, role-based access, and responsive UI for enhanced learning experiences.
